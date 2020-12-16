@@ -35,7 +35,7 @@ https://www.youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe
    4.1 negative, invalid email (empty email, incorrect format)
    4.2 positive, valid email
 
-##### Task 5 (specs/dropdown.js)
+##### Task 5 (features/dropdown.feature) \*\*\*\*
 
 1. go to github
 2. go to the top left menu items and mouse hover every item
