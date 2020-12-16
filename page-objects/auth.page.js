@@ -21,27 +21,6 @@ class Auth extends PageBase {
   get flashText() {
     return "Incorrect username or password."; //this.$errorMessage.getText();
   }
-
-  //   login(user) {
-  //     // super.load();
-  //     const { email, password } = user;
-  //     this.$email.setValue(email);
-  //     this.$password.setValue(password);
-  //     this.$signIn.click();
-
-  //     // wait until either the sign in button is gone or an error appears
-  //     browser.waitUntil(
-  //       () => {
-  //         const signInExist = this.$signIn.isExisting();
-  //         const errorMessageExist = this.$errorMessage.isExisting();
-  //         return !signInExist || errorMessageExist;
-  //       },
-  //       {
-  //         timoutMsg:
-  //           'The "Sign in" button still exists and an error never appeared',
-  //       }
-  //     );
-  //   }
 }
 
 module.exports = new Auth();

@@ -11,6 +11,18 @@ const users = {
     password: "tom-smith-cod@tmpbox.net",
     useForLogin: false,
   },
+  emptyEmail: {
+    username: "tom-smith-cod",
+    email: "",
+    password: "tom-smith-cod@tmpbox.net",
+    useForLogin: false,
+  },
+  emptyPassword: {
+    username: "tom-smith-cod",
+    email: "tom-smith-cod@tmpbox.net",
+    password: "",
+    useForLogin: false,
+  },
 };
 
 module.exports = users;
