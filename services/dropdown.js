@@ -1,5 +1,9 @@
 const page = require("../page-objects/dropdown.page");
 
+function load() {
+  page.load();
+}
+
 function checkMenuItem() {
   page.$$menu.forEach((item) => {
     item.waitForDisplayed();
@@ -7,10 +11,6 @@ function checkMenuItem() {
     item.moveTo();
     item.click();
   });
-}
-
-function load() {
-  page.load();
 }
 
 export { checkMenuItem, load };
