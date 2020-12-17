@@ -1,7 +1,7 @@
 import { Then } from "cucumber";
 import { isSubstringFound } from "../../utils/functions";
 
-Then("the user will see topics browse popular topics on gitHub", () => {
+Then("the user will see topics browse popular topics on github", () => {
   const topics = "topics";
   let url = "";
   browser.waitUntil(

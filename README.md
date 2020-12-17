@@ -56,7 +56,7 @@ https://www.youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe
 3. go to Topics tab
 4. check if "Topics Browse popular topics on GitHub." banner exist
 
-##### Task 8
+##### Task 8 (features/search/search.feature)
 
 1. go to github
 2. go to search box and type webdriverio and press enter
