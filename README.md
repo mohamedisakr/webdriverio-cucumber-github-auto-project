@@ -80,12 +80,12 @@ https://www.youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe
 4. click "Enterprise Server" banner, then you will be redirected to another page
 5. type Name, Company, Work email, Phone number, Choose your installation type, Do you have any other questions about GitHub Enterprise?, Accept terms of use, Verify you're not a robot and click on "Get Started" button
 
-##### Task 11
+##### Task 11 (features/career/career.feature) \*\*\*\*
 
 1. go to github
 2. scroll down and click on Careers
 3. click on Open positions
-4. output all Open positions in console `<div class="pb-md-6">`
+4. output all Open positions in console
 
 ### Remarks
 
@@ -95,8 +95,9 @@ https://www.youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe
 
 1. Project structure
 2. WebdriverIO best practices
-3. Parallel Testing
-4. Design Patterns for Scalable Test Automation
+3. Cucumber Best Practices
+4. Parallel Testing
+5. Design Patterns for Scalable Test Automation
 
 ### Official W3C list of supported selector types:
 
