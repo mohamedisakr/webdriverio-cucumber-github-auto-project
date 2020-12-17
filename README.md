@@ -41,7 +41,7 @@ https://www.youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe
 2. go to the top left menu items and mouse hover every item
 3. check every item have drop down menu
 
-##### Task 6
+##### Task 6 (features/pricing/pricing.feature)
 
 1. go to github
 2. go to the top left menu items and click Pricing then Plans
