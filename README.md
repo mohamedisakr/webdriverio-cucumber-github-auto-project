@@ -49,7 +49,7 @@ https://www.youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe
 4. it will redirect to "Create your account"
 5. type Username, Email address, Password, and all other fields
 
-##### Task 7
+##### Task 7 (features/explore/explore.feature)
 
 1. go to github
 2. click explore menu, then "Explore GitHut"
