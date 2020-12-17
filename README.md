@@ -26,7 +26,7 @@ https://www.youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe
 3. type your username/email and password and then click Sign in
 4. check if it will redirect you to your profile
 
-##### Task 4
+##### Task 4 (features/reset-password/reset.feature)
 
 1. go to github
 2. click Sign in the top right corner
