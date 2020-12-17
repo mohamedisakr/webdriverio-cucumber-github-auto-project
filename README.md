@@ -64,7 +64,7 @@ https://www.youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe
 4. click the first result "igniteram/appium-webdriverio-typescript"
 5. check the address of the page address link contains the word "webdriverio"
 
-##### Task 9
+##### Task 9 (features/enterprise/enterprise.feature)
 
 1. go to github
 2. go to "Get started with GitHub Enterprise" banner
@@ -72,7 +72,7 @@ https://www.youtube.com/playlist?list=PLP1-M5OhC7yjAZ1-llDH45nxLfKKbcxGe
 4. click "Enterprise Cloud" banner, then you will be redirected to another page
 5. type Username, Email address, Password, and all other fields
 
-##### Task 10
+##### Task 10 (features/enterprise/enterprise.feature)
 
 1. go to github
 2. go to "Get started with GitHub Enterprise" banner
