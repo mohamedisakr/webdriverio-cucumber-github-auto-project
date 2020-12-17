@@ -1,4 +1,3 @@
-
 Feature: search github
   Scenario: user can search for webdriverio
     Given a web broswer is at github home page
